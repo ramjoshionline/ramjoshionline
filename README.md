@@ -62,5 +62,4 @@ Based in **Munich, Germany** 🇩🇪 · 6+ years in Europe's tech ecosystem.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramjoshionline/)
 - - 📧 ramjoshionline@gmail.com
-  - *AI PM · Munich 🇩🇪 
--->
+  - AI PM · Munich 🇩🇪
