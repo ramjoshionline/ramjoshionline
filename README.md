@@ -1,4 +1,21 @@
-## Hi there 👋
+## # Hi, I'm Ram 👋
+
+I'm an AI Product Manager based in Munich 🇩🇪, building at the intersection of AI products, evaluation frameworks, and multi-agent systems.
+
+
+
+---
+
+## 💻 Open Source
+
+| Repo | Description |
+|------|-------------|
+| [evalarchitect](https://github.com/ramjoshionline/evalarchitect) | AI Eval PRD Generator — turn a feature description into a complete evaluation framework |
+| [AI-Agents](https://github.com/ramjoshionline/AI-Agents) | A collection of AI agents I've built and experimented with |
+
+---
+
+
 
 <!--
 **ramjoshionline/ramjoshionline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,25 +57,10 @@ Based in **Munich, Germany** 🇩🇪 · 6+ years in Europe's tech ecosystem.
 
 ---
 
-## 🎙️ Talks & Appearances
-
-*Building this section — first appearances coming in 2026.*
-
----
 
 ## 🤝 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramjoshionline/)
 - - 📧 ramjoshionline@gmail.com
-  -
-  - ---
-  -
-  - *AI PM · Munich 🇩🇪 · Building AI-native products for European SMBs*- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - *AI PM · Munich 🇩🇪 
 -->
