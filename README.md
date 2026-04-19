@@ -10,6 +10,7 @@ I'm an AI Product Manager based in Munich 🇩🇪, building at the intersection
 
 | Repo | Description |
 |------|-------------|
+| [ForecastPilot](https://github.com/ramjoshionline/forecastpilot) | AI Revenue Forecast for a product feature |
 | [evalarchitect](https://github.com/ramjoshionline/evalarchitect) | AI Eval PRD Generator — turn a feature description into a complete evaluation framework |
 | [AI-Agents](https://github.com/ramjoshionline/AI-Agents) | A collection of AI agents I've built and experimented with |
 
