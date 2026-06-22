@@ -6,12 +6,16 @@ I'm an AI Product Manager based in Munich 🇩🇪, building at the intersection
 
 ---
 
-## 💻 Open Source
+## 💻 
 
 | Repo | Description |
 |------|-------------|
 | [ForecastPilot](https://github.com/ramjoshionline/forecastpilot) | AI Revenue Forecast for a product feature |
-| [evalarchitect](https://github.com/ramjoshionline/evalarchitect) | AI Eval PRD Generator — turn a feature description into a complete evaluation framework |
+| [Live Strategy Agent](https://github.com/ramjoshionline/Live-Strategy-Doc) | AI-powered intelligence system that eliminates Strategy failure mode |
+| [AI Eval PRD Generator](https://github.com/ramjoshionline/evalarchitect) | AI Eval PRD Generator — turn a feature description into a complete evaluation framework |
+| [AI Cost Intelligence Agent](https://github.com/ramjoshionline/tokenops-agent) | AI Operating layer that optimize the cost |
+| [LLM Selector](https://github.com/ramjoshionline/llm-selector) | Agent to Solve the Model Selection Problem Nobody Talks About |
+| [MCP Strategy Copilot](https://github.com/ramjoshionline/mcp-strategy-copilot) | Agent that takes any public API and generates a strategic, scored, phased MCP adoption plan |
 | [AI-Agents](https://github.com/ramjoshionline/AI-Agents) | A collection of AI agents I've built and experimented with |
 
 ---
